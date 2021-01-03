@@ -1,0 +1,17 @@
+
+.myInput {
+	height: 35px;
+	font-size: 24px;
+}
+
+.myInput-danger {
+	color: red;
+	background-color: orange;
+}
+
+.myDiv {
+	background-color: grey;
+	height: 250px;
+	border-style: 1px solid red;
+	padding: 10px;
+}
